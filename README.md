@@ -5,12 +5,12 @@
 위의 링크로 가면 만든 것을 확인할 수 있다.
 
 # 사용기술
-REACT
-EXPRESS
-NODEJS
-DOCKER
-DOCKER STACK
-DOCKER SWARM
+REACT<br>
+EXPRESS<br>
+NODEJS<br>
+DOCKER<br>
+DOCKER STACK<br>
+DOCKER SWARM<br>
 
 # 프로젝트 구조
 ![img-1.png](img-1.png)
